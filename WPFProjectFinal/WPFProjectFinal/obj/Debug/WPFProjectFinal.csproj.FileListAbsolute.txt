@@ -1,0 +1,17 @@
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\bin\Debug\WPFProjectFinal.exe.config
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\bin\Debug\WPFProjectFinal.exe
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\bin\Debug\WPFProjectFinal.pdb
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\Encipher.g.cs
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\MainWindow.g.cs
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\App.g.cs
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\WPFProjectFinal_MarkupCompile.cache
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\WPFProjectFinal_MarkupCompile.lref
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\Encipher.baml
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\MainWindow.baml
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\WPFProjectFinal.g.resources
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\WPFProjectFinal.Properties.Resources.resources
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\WPFProjectFinal.csproj.GenerateResource.cache
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\WPFProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\WPFProjectFinal.exe
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\WPFProjectFinal.pdb
+C:\Users\kishe\Desktop\WPFProjectFinal\WPFProjectFinal\obj\Debug\WPFProjectFinal.csprojAssemblyReference.cache
